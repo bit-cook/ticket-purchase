@@ -162,6 +162,7 @@ chromedriver.log
 config.json
 credentials.json
 *.cookie
+*.pkl
 *.session
 
 # Temporary files
